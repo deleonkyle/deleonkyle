@@ -6,8 +6,3 @@ Kyle Kristopher De Leon – Aspiring IT Professional & Full-Stack Developer
 
 📂 Explore my portfolio to see my work in web development, cloud architecture, and software development
 
-Contact Information:
-
-Email: deleonkylekristopher@gmail.com
-
-Phone: +63-995-510-8361
