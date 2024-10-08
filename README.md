@@ -9,4 +9,5 @@ Kyle Kristopher De Leon – Aspiring IT Professional & Full-Stack Developer
 Contact Information:
 
 Email: deleonkylekristopher@gmail.com
+
 Phone: +63-995-510-8361
